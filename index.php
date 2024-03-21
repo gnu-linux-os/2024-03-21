@@ -16,12 +16,6 @@
     <input type="submit" value="Guardar nota AjAx" id="envio">
 
 
-    <h2>Notas guardadas (HTML estándar)</h2>
-    <div id="notas-html">
-        <?php
-            include 'notas.txt';
-        ?>
-    </div>
 
     <h2>Notas guardadas (Ajax)</h2>
     <div id="notas-ajax"></div>
